@@ -19,7 +19,6 @@ I make elegantly professional **💻 distributed Systems, 📱 iOS apps and 🌐
 - 💬   I'm mostly active within the **Golang** communities.
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ad&hide=contribs" />
   <p>
     <img alt="Mac OS" src="https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white"/>
     <img alt="Linux" src="https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white"/>
